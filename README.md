@@ -12,16 +12,18 @@ This project is a very minimal starter that includes 2 sample components, a glob
 
 ## Table of Contents:
 
-- [Getting Started](#getting-started)
-- [Installation options](#installation-options)
-- [Testing](#testing)
-  - [Included Default Testing](#included-default-testing)
-  - [Removing Renovate](#removing-renovate)
-  - [Removing Cypress](#removing-cypress)
+- [Next + Netlify Starter](#next--netlify-starter)
+  - [Table of Contents:](#table-of-contents)
+  - [Getting Started](#getting-started)
+    - [Installation options](#installation-options)
+  - [Testing](#testing)
+    - [Included Default Testing](#included-default-testing)
+    - [Removing Renovate](#removing-renovate)
+    - [Removing Cypress](#removing-cypress)
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server:.
 
 ```bash
 npm run dev
