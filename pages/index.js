@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Magi INC!" />
+        <Header title="Magi Company -- INC!" />
         <p className="description">
           Edit here <code>pages/index.js</code>
         </p>
